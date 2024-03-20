@@ -2,8 +2,8 @@ Hi there, I'm Yuziki! 👋
 I'm a passionate computer science student at the University of Queensland, currently based in Brisbane, Australia. Originally from Shanghai, China, I bring a diverse perspective to my projects and collaborations.
 
 About Me
-🎓 Studying Computer Science at the University of Queensland
-🌱 Constantly learning and exploring new technologies
+ - 🎓 Studying Computer Science at the University of Queensland
+ - 🌱 Constantly learning and exploring new technologies
 🚀 Love building software applications and solving challenging problems
 💻 Proficient in C#, C++, Golang, and Rust
 📫 How to reach me: Yuziki1227@outlook.com
