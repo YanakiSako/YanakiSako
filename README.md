@@ -1,4 +1,5 @@
 Hi there, I'm Yuziki! 👋
+
 I'm a passionate computer science student at the University of Queensland, currently based in Brisbane, Australia. Originally from Shanghai, China, I bring a diverse perspective to my projects and collaborations.
 
 About Me
@@ -11,7 +12,7 @@ About Me
    - Recent Projects
  - 🌐 Developed a web application for ShanghaiCeling Ltd. to streamline their workflow using Golang and PostgreSQL.
  - 🔧 Contributed to open-source projects such as FlyByWire, focusing on enhancing performance and usability.
- - 📝 CCurrently building a Private FSD using Golang
+ - 📝 Currently building a Private FSD using Golang
     - Get in Touch
 I'm always open to new opportunities, collaborations, and discussions. Feel free to connect with me on mail!
 
