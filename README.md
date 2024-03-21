@@ -6,7 +6,7 @@ About Me
  - 🎓 Studying Computer Science at the University of Queensland
  - 🌱 Constantly learning and exploring new technologies
  - 🚀 Love building software applications and solving challenging problems
- - 💻 Proficient in C#, C++, Golang, and Rust
+ - 💻 Proficient in Vue, C++, Golang, and Rust
  - 📫 How to reach me: Yuziki1227@outlook.com
  - 😄 Pronouns: He/Him
    - Recent Projects
